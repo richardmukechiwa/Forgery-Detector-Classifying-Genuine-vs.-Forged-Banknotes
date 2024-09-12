@@ -1,4 +1,5 @@
 ## Project Title:
+
 ## Forgery-Detector-Classifying-Genuine-vs.-Forged-Banknotes
 
 ### Data Source : 
@@ -14,7 +15,7 @@
 
 **Objective**: The purpose of this project is to develop a machine learning model to classify banknotes as either genuine or forged using features derived from the dataset which I have extracted from OpenMl platform link: https://openml.org/search?type=data&sort=runs&status=active&id=1462&utm_source=datacontinuum.beehiiv.com&utm_medium=referral&utm_campaign=hypothesis-testing-deciding-kpi-and-a-cool-dataset.
 
-**Dataset Overview:** The dataset includes four features (V1, V2, V3, V4) and a target variable (Class), where the Class represents whether a banknote is genuine or forged.
+**Dataset Overview:** The dataset includes four features (V1, V2, V3, V4) and a target variable (Class), where the Class 1 represents whether a banknote is genuine  and Class 2 forged.
 
 ### **Data Exploration and Preprocessing**
 
