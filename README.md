@@ -8,10 +8,7 @@
 
 ### Project Link: https://github.com/richardmukechiwa/Forgery-Detector-Classifying-Genuine-vs.-Forged-Banknotes/blob/main/LogisticRegressionFakeNotes.ipynb
 
-### Project Report :
-
-# **Project Report: Banknote Authenticity Classification**
-
+### Project Report : logisticregression.ipynb
 
 **Objective**: The purpose of this project is to develop a machine learning model to classify banknotes as either genuine or forged using features provided in the dataset.
 
