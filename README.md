@@ -6,7 +6,7 @@
 ### Model : Classification
 - LogisticRegression
 
-  ### Project Link: 
+### Project Link: https://github.com/richardmukechiwa/Forgery-Detector-Classifying-Genuine-vs.-Forged-Banknotes/blob/main/LogisticRegressionFakeNotes.ipynb
 
 ### Project Report :
 
