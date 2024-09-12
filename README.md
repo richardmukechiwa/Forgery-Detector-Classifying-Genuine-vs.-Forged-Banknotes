@@ -41,8 +41,7 @@ to  identify patterns between genuine and forged banknotes.
 
 - The data was split into training and testing sets using an 70/30 ratio. 
  **Target** : Class (1  represent genuine note, 2 represent forged note)
- ** Features : V1, V2, V3, V4
-
+ **Features** : V1, V2, V3, V4
 
 **Accuracy** 
 
