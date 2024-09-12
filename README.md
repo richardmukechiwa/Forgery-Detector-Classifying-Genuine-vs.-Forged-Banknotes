@@ -88,6 +88,6 @@ to  identify patterns between genuine and forged banknotes.
 
 **Challenges**
 - The features meta data only provided for V1 and V2  as (V1. variance of Wavelet Transformed image (continuous)
-V2. skewness of Wavelet Transformed image (continuous))
+V2. skewness of Wavelet Transformed image (continuous)) and nothing is explained about V3, V4
 
 
